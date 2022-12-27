@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* font-family: 'Rubik Gemstones'; */
+}
+
+
+.text-capitalize i{
+    color: orangered;
+    font-size: 35px;
+}
+
+.text-capitalize p{
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.text-capitalize b{
+    font-size: 22px;
+}
+
+
+.text-capitalize span{
+    color: orangered;
+    font-size: 25px;
+}
+
+input[type=text]{
+    width:80%;
+    border: 2px solid orangered;
+    border-radius: 6px;
+    outline: none;
+    padding: 3px;
+}
+
+.p-1 i{
+    position: relative;
+    color: white;
+    background-color: orangered;
+    right: 38px;
+    padding: 8px;
+}
+
+.basket i{
+    color: orangered;
+    font-size:25px ;
+}
+
+.basket a{
+    font-size: 20px;
+}
+
+.basket p{
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.header-blog{
+    background-image:url(images/chicago.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    height: 80vh;
+    width: 100%;
+}
+
+.text-blog span{
+    color: orangered;
+    margin: 5px;
+}
+
+.text-blog{
+    position: relative;
+    top: 30%;
+    
+}
+
+
+.text-blog p{
+    font-size: 18px;
+}
+
+.avatar img{
+    width: 100%;
+    height: 300px;
+   
+}
+
+#connn{
+    color:red;
+    font-weight: bold;
+    
+}
+
+input[type=email]{
+    width: 40%;
+    padding: 5px;
+    border: 2px solid orangered;
+    outline: none;
+}
+
+.social i{
+    border: 2px solid black;
+    padding: 8px;
+    background-color: black;
+    margin: 3px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-size: 15px;
+}
+.social a{
+    color: white;
+    
+}
+
+
+.social a:hover{
+    color: white;
+   
+  
+}
+
+.social i:hover{
+    background-color:grey;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    color: white;
+    border: 2px solid grey;
+
+}
+
+.brd p{
+    padding: 5px;
+    background-color:white;
+    color: black;
+}
+
+.brd i{
+    margin: 8px;
+    font-size: 18px;
+    color: gray;
+}
+
+.px-3 p{
+    padding: 3px;
+}
+
+.px-3 h2{
+    color:white;
+   
+}
+.px-3 p:hover{
+    color:gray;
+}
+
+
